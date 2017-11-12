@@ -82,8 +82,7 @@ minetest.register_entity{"throwing:fireball_entity", THROW_FIRE_ENTITY_ENTITY)
 minetest.register_craft ({
                                         output = "throwing:fireball,
                                         recipe = {
-                                                {'default:coal', 'default:gunpowder', 'default:blaze_powder'
-                                                        'default:iron_ingot', 'default:flint';},}
+                                                {'default:coal', 'default:gunpowder', 'default:blaze_powder', 'default:flint'},}
                                                         }}
                         
                                                 
